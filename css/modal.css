@@ -1,0 +1,19 @@
+.modal {
+    /* display: none; */
+    color: var(--color-brand-white);
+    width: 500px;
+    height: 455px;
+    overflow: hidden;
+    background-color: var(--color-brand-code-gray);
+    /* border: 2px solid rgb(247, 77, 77); */
+    border: 1px solid wheat;
+    border-radius: 22px;
+    text-align: left;
+    padding: 0;
+    margin-bottom: 100px;
+    position: absolute;
+    z-index: 1;
+    visibility: hidden;
+    opacity: 0;
+    transform: translateX(100%) translateY(-190%);
+}

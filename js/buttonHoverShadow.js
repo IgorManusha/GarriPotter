@@ -1,0 +1,1 @@
+studentsHog.onclick = function () {};
